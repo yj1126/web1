@@ -1,20 +1,5 @@
 # web1
 <!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Insert title here</title>
-</head>
-<body>
-    <table cellspacing="5" align="center" border="1" bordercolor="#5CD1E5"
-        width="550" height="700">
-        <p></p>
-        <caption>
-            <font size="5" face="굴림"><font color="#fece00">Ti</font><font
-                color="#fe8c14">me </font><font color="#8cca2d">Ta</font><font
-                color="#4daace">ble</font>
-            </font>
-        </caption>
         <tr align="center">
             <td width="50"></td>
             <td width="100" bgcolor="#FF3333">월</td>
